@@ -6,6 +6,8 @@ An automated sentry system that uses Computer Vision to detect targets, calculat
 (https://github.com/user-attachments/assets/21f01995-9b04-486c-b67d-70f9a4da802a)
 
 
+(https://github.com/user-attachments/assets/10aa9062-db78-4133-8ee3-ce7e04bede54)
+
 
 ## 🌟 Features
 * **Computer Vision Core:** Uses OpenCV HSV color filtering to detect targets (specifically black/dark objects) while ignoring background noise and camera borders.
