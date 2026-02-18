@@ -4,7 +4,8 @@ a place debris cleaner laser based tracker
 
 An automated sentry system that uses Computer Vision to detect targets, calculates their coordinates in real-time, and directs a 2-axis servo turret to neutralize them with a laser pointer.
 
-![Simulation Screenshot](placeholder_for_screenshot.png) 
+![WhatsApp Image 2026-02-19 at 1 41 33 AM (1)](https://github.com/user-attachments/assets/15764d4d-1e73-4f85-9![WhatsApp Image 2026-02-19 at 1 41 33 AM](https://github.com/user-attachments/assets/21f01995-9b04-486c-b67d-70f9a4da802a)
+d51-84345d2ba69b)
 
 
 ## 🌟 Features
